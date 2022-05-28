@@ -106,23 +106,23 @@
 - [ ] [go-patterns-cn](https://github.com/archbobo/go-patterns-cn)
 - [ ] [图解Go内存管理系列](https://blog.csdn.net/flynetcn/article/details/120228517)
 
-### 大O标记法，算法，数据结构(todo)
+### 大O标记法，算法，数据结构
 
-- [ ] [AlgoExperts](https://www.algoexpert.io)
-- [ ] [Hacking a Google Interview – Handout 1](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf)
-- [ ] [Hacking a Google Interview – Handout 2](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_2.pdf)
-- [ ] [Hacking a Google Interview – Handout 3](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_3.pdf)
+- [ ] [大 O 表示法初学指南](https://zhuanlan.zhihu.com/p/50516776)
+- [ ] [Hacking a Google Interview](https://hawstein.com/2012/11/26/hacking-a-google-interview/)
+- [ ] [LeetCode 官方推出的经典面试题目清单](https://leetcode.cn/leetbook/detail/top-interview-questions-easy/)
+- [ ] [LeetCode Cookbook](https://leetcode.cn/leetbook/detail/leetcode-cookbook/)
 
-## 系统设计(todo)
+## 系统设计
 
 - [ ] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/se/product)
-- [ ] [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
-- [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [ ] [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
+- [ ] [Grokking the System Design Interview 系统设计面试：一步步得指导](https://zhuanlan.zhihu.com/p/455654924)
+- [ ] [系统设计入门 ](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
+- [ ] [如何应对系统设计的面试2](https://blog.csdn.net/mike_learns_to_rock/article/details/85955732)
 - [ ] [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
-- [ ] [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
-- [ ] [What's in a Production Web Application?](https://web.archive.org/web/20210106095747/http://stephenmann.io/post/whats-in-a-production-web-application)
-- [ ] [Distributed systems](http://book.mixu.net/distsys/single-page.html)
+- [ ] [Web 应用架构基础课](https://github.com/xitu/gold-miner/blob/master/TODO1/web-architecture-101.md)
+- [ ] [通俗易懂的生产环境Web应用架构介绍](https://blog.51cto.com/rude3knife/2912156)
+- [ ] [读书笔记：Distributed Systems for Fun and Profit](https://blog.csdn.net/weixin_30239361/article/details/83143495)
 
 ### 系统设计示例
 
